@@ -1,0 +1,16 @@
+0: berasal
+1: berpikir
+2: maaf
+3: makan
+4: mandi
+5: nama
+6: perkenalkan
+7: saya
+8: tidur
+9: tolong
+10: tunggu
+11: umur
+12: berteman
+13: sementara
+14: santai aja
+15: bareng
